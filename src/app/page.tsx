@@ -17,6 +17,7 @@ export default function Home() {
         logoWidth={50}
         logoHeight={50}
         buttonText="Join the Community"
+        onButtonClick={() => { /* Button Action */ }}
       />
 
       <BillboardHero
